@@ -31,7 +31,7 @@ Este projeto é um aplicativo móvel básico de autenticação de usuário e lis
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/AdevSantos/react-native-user-
+git clone https://github.com/AdevSantos/react-native-user-listing
 ```
 
 2. Navegue até o diretório do projeto:
@@ -56,8 +56,10 @@ npx expo start
 
 1. Na tela de login, insira as credenciais:
 
-- Email: eve.holt@reqres.in
-- Senha: cityslicka
+ - Email: eve.holt@reqres.in
+ - Senha: cityslicka
+
+#
 
 2. Navegue pela lista de usuários e clique em qualquer usuário para ver seus detalhes.
 
