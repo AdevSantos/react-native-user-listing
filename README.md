@@ -1,6 +1,6 @@
 # react-native-user-listing
 
-# React Native User Authentication and Listing App
+## React Native User Authentication and Listing App
 
 Este projeto é um aplicativo móvel básico de autenticação de usuário e listagem, desenvolvido com React Native, TypeScript, styled-components, e react-navigation.
 
