@@ -59,8 +59,8 @@ npx expo start
  - Email: eve.holt@reqres.in
  - Senha: cityslicka
 
-#
-
 2. Navegue pela lista de usuários e clique em qualquer usuário para ver seus detalhes.
+
+#
 
 Este README fornece uma visão geral básica do aplicativo e de como configurá-lo. Você pode expandi-lo conforme necessário para incluir mais detalhes, como testes, configuração de ambiente, etc.
